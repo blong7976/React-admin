@@ -1,0 +1,15 @@
+.left-nav-header{
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+    background: #05294c;
+}
+.left-nav-header img{
+    display: inline-block;
+    height: 60px;
+}
+.left-nav-header h1{
+    display: inline-block;
+    color: #fff;
+    margin-bottom: 0;
+}

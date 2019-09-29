@@ -1,0 +1,22 @@
+.loginForm{
+    width: 500px;
+    border: 1px solid #cccccc;
+    border-radius: 20px;
+    padding: 30px;
+    box-sizing: border-box;
+    position: fixed;
+    left: 50%;
+    top: 20%;
+    transform: translateX(-50%);
+}
+.Vm-header{
+    height: 80px;
+    background: #fff;
+}
+.Vm-left-nav{
+    color: white;
+}
+.Vm-footer{
+    text-align: center;
+    color: #cccccc;
+}
